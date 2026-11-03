@@ -1,6 +1,6 @@
 ### Владислав Долгих · Аналитик данных · Москва
 
-С мая 2023 по сентябрь 2025 — ведущий аналитик-проектировщик в НПЦ «БизнесАвтоматика». С сентября 2025 собираю витрины и расчёт KPI в «100балльный репетитор». PostgreSQL и ClickHouse, трансформации в dbt, расписание в Prefect, дашборды в Yandex DataLens. Цифры должны сходиться с источником. За логику отвечаю сам.
+С мая 2023 по сентябрь 2025 — ведущий аналитик-проектировщик в НПЦ «БизнесАвтоматика». С сентября 2025 собираю витрины и расчёт KPI в «100балльный репетитор». PostgreSQL и ClickHouse, трансформации в dbt, оркестрация Prefect, дашборды в Yandex DataLens.
 
 From May 2023 to September 2025 I was ведущий аналитик-проектировщик at НПЦ «БизнесАвтоматика». Since September 2025 I build marts and KPI calculations at «100балльный репетитор». PostgreSQL and ClickHouse, dbt, Prefect, dashboards in Yandex DataLens. The figures have to match the source. I own the logic.
 
@@ -10,4 +10,4 @@ From May 2023 to September 2025 I was ведущий аналитик-проек
 - [Дашборд](https://grigorzelidze.github.io/portalegre-student-outcomes/) — два знаменателя одного снимка, плата, стипендия и возраст. Крупные числа на странице, не только график · the same figures as the README, with the two denominators up front.
 - [Какие чтения файла неверны](https://github.com/Grigorzelidze/portalegre-student-outcomes/blob/main/docs/decisions.md) — почему один знаменатель, «стипендия = балл поступления» и «ноль зачётов = ранний сигнал» здесь не используются · the readings the file does not support.
 
-Офис или удалённо, Москва, без переезда · [Telegram](https://t.me/Grigorzelidze)
+[Telegram](https://t.me/Grigorzelidze)
